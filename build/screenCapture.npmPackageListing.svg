@@ -1,119 +1,119 @@
 <svg height="1854" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1854" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 21:47:59 +0000  1366992 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 21:47:59 +0000     3668 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 21:47:59 +0000     1058 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 21:47:59 +0000     3965 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 21:47:59 +0000      283 bytes  bin/plato</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 21:47:59 +0000      443 bytes  lib/assets/css/morris.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 21:47:59 +0000     1352 bytes  lib/assets/css/plato-display.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 21:47:59 +0000     1341 bytes  lib/assets/css/plato-file.css</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 21:47:59 +0000     3049 bytes  lib/assets/css/plato-overview.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 21:47:59 +0000      866 bytes  lib/assets/css/plato.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 21:47:59 +0000   120137 bytes  lib/assets/css/vendor/bootstrap.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 21:47:59 +0000     5920 bytes  lib/assets/css/vendor/codemirror.css</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 21:47:59 +0000    14614 bytes  lib/assets/css/vendor/font-awesome.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 21:47:59 +0000      442 bytes  lib/assets/css/vendor/morris.css</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 21:47:59 +0000    38708 bytes  lib/assets/font/fontawesome-webfont.eot</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 21:47:59 +0000   130151 bytes  lib/assets/font/fontawesome-webfont.svg</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 21:47:59 +0000    68476 bytes  lib/assets/font/fontawesome-webfont.ttf</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 21:47:59 +0000    41752 bytes  lib/assets/font/fontawesome-webfont.woff</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 21:47:59 +0000    91559 bytes  lib/assets/scripts/bundles/codemirror.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 21:47:59 +0000   241050 bytes  lib/assets/scripts/bundles/core-bundle.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 21:47:59 +0000     2291 bytes  lib/assets/scripts/codemirror.markpopovertext.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 21:47:59 +0000     1507 bytes  lib/assets/scripts/plato-display.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 21:47:59 +0000     4669 bytes  lib/assets/scripts/plato-file.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 21:47:59 +0000     5275 bytes  lib/assets/scripts/plato-overview.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 21:47:59 +0000     2978 bytes  lib/assets/scripts/plato-sortable-file-list.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 21:47:59 +0000     3508 bytes  lib/assets/scripts/vendor/bootstrap-popover.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 21:47:59 +0000    11928 bytes  lib/assets/scripts/vendor/bootstrap-tooltip.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 21:47:59 +0000   177835 bytes  lib/assets/scripts/vendor/codemirror/codemirror.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 17:02:42 +0000  1366992 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 17:02:42 +0000     3668 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 17:02:42 +0000     1058 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 17:02:42 +0000     3965 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 17:02:42 +0000      283 bytes  bin/plato</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 17:02:42 +0000      443 bytes  lib/assets/css/morris.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 17:02:42 +0000     1352 bytes  lib/assets/css/plato-display.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 17:02:42 +0000     1341 bytes  lib/assets/css/plato-file.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 17:02:42 +0000     3049 bytes  lib/assets/css/plato-overview.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 17:02:42 +0000      866 bytes  lib/assets/css/plato.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 17:02:42 +0000   120137 bytes  lib/assets/css/vendor/bootstrap.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 17:02:42 +0000     5920 bytes  lib/assets/css/vendor/codemirror.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 17:02:42 +0000    14614 bytes  lib/assets/css/vendor/font-awesome.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 17:02:42 +0000      442 bytes  lib/assets/css/vendor/morris.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 17:02:42 +0000    38708 bytes  lib/assets/font/fontawesome-webfont.eot</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 17:02:42 +0000   130151 bytes  lib/assets/font/fontawesome-webfont.svg</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 17:02:42 +0000    68476 bytes  lib/assets/font/fontawesome-webfont.ttf</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 17:02:42 +0000    41752 bytes  lib/assets/font/fontawesome-webfont.woff</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 17:02:42 +0000    91559 bytes  lib/assets/scripts/bundles/codemirror.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 17:02:42 +0000   241050 bytes  lib/assets/scripts/bundles/core-bundle.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 17:02:42 +0000     2291 bytes  lib/assets/scripts/codemirror.markpopovertext.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 17:02:42 +0000     1507 bytes  lib/assets/scripts/plato-display.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 17:02:42 +0000     4669 bytes  lib/assets/scripts/plato-file.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 17:02:42 +0000     5275 bytes  lib/assets/scripts/plato-overview.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 17:02:42 +0000     2978 bytes  lib/assets/scripts/plato-sortable-file-list.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 17:02:42 +0000     3508 bytes  lib/assets/scripts/vendor/bootstrap-popover.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 17:02:42 +0000    11928 bytes  lib/assets/scripts/vendor/bootstrap-tooltip.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 17:02:42 +0000   177835 bytes  lib/assets/scripts/vendor/codemirror/codemirror.\</tspan>
 <tspan x="10" y="474">js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-11 21:47:59 +0000    14424 bytes  lib/assets/scripts/vendor/codemirror/javascript.\</tspan>
+<tspan x="10" y="490"> 28.  2017-04-17 17:02:42 +0000    14424 bytes  lib/assets/scripts/vendor/codemirror/javascript.\</tspan>
 <tspan x="10" y="506">js</tspan>
-<tspan x="10" y="522"> 29.  2017-04-11 21:47:59 +0000     3693 bytes  lib/assets/scripts/vendor/codemirror/util/closet\</tspan>
+<tspan x="10" y="522"> 29.  2017-04-17 17:02:42 +0000     3693 bytes  lib/assets/scripts/vendor/codemirror/util/closet\</tspan>
 <tspan x="10" y="538">ag.js</tspan>
-<tspan x="10" y="554"> 30.  2017-04-11 21:47:59 +0000      834 bytes  lib/assets/scripts/vendor/codemirror/util/colori\</tspan>
+<tspan x="10" y="554"> 30.  2017-04-17 17:02:42 +0000      834 bytes  lib/assets/scripts/vendor/codemirror/util/colori\</tspan>
 <tspan x="10" y="570">ze.js</tspan>
-<tspan x="10" y="586"> 31.  2017-04-11 21:47:59 +0000     1513 bytes  lib/assets/scripts/vendor/codemirror/util/contin\</tspan>
+<tspan x="10" y="586"> 31.  2017-04-17 17:02:42 +0000     1513 bytes  lib/assets/scripts/vendor/codemirror/util/contin\</tspan>
 <tspan x="10" y="602">uecomment.js</tspan>
-<tspan x="10" y="618"> 32.  2017-04-11 21:47:59 +0000      925 bytes  lib/assets/scripts/vendor/codemirror/util/contin\</tspan>
+<tspan x="10" y="618"> 32.  2017-04-17 17:02:42 +0000      925 bytes  lib/assets/scripts/vendor/codemirror/util/contin\</tspan>
 <tspan x="10" y="634">uelist.js</tspan>
-<tspan x="10" y="650"> 33.  2017-04-11 21:47:59 +0000      502 bytes  lib/assets/scripts/vendor/codemirror/util/dialog\</tspan>
+<tspan x="10" y="650"> 33.  2017-04-17 17:02:42 +0000      502 bytes  lib/assets/scripts/vendor/codemirror/util/dialog\</tspan>
 <tspan x="10" y="666">.css</tspan>
-<tspan x="10" y="682"> 34.  2017-04-11 21:47:59 +0000     2362 bytes  lib/assets/scripts/vendor/codemirror/util/dialog\</tspan>
+<tspan x="10" y="682"> 34.  2017-04-17 17:02:42 +0000     2362 bytes  lib/assets/scripts/vendor/codemirror/util/dialog\</tspan>
 <tspan x="10" y="698">.js</tspan>
-<tspan x="10" y="714"> 35.  2017-04-11 21:47:59 +0000     6112 bytes  lib/assets/scripts/vendor/codemirror/util/foldco\</tspan>
+<tspan x="10" y="714"> 35.  2017-04-17 17:02:42 +0000     6112 bytes  lib/assets/scripts/vendor/codemirror/util/foldco\</tspan>
 <tspan x="10" y="730">de.js</tspan>
-<tspan x="10" y="746"> 36.  2017-04-11 21:47:59 +0000     3909 bytes  lib/assets/scripts/vendor/codemirror/util/format\</tspan>
+<tspan x="10" y="746"> 36.  2017-04-17 17:02:42 +0000     3909 bytes  lib/assets/scripts/vendor/codemirror/util/format\</tspan>
 <tspan x="10" y="762">ting.js</tspan>
-<tspan x="10" y="778"> 37.  2017-04-11 21:47:59 +0000     5541 bytes  lib/assets/scripts/vendor/codemirror/util/javasc\</tspan>
+<tspan x="10" y="778"> 37.  2017-04-17 17:02:42 +0000     5541 bytes  lib/assets/scripts/vendor/codemirror/util/javasc\</tspan>
 <tspan x="10" y="794">ript-hint.js</tspan>
-<tspan x="10" y="810"> 38.  2017-04-11 21:47:59 +0000     1787 bytes  lib/assets/scripts/vendor/codemirror/util/loadmo\</tspan>
+<tspan x="10" y="810"> 38.  2017-04-17 17:02:42 +0000     1787 bytes  lib/assets/scripts/vendor/codemirror/util/loadmo\</tspan>
 <tspan x="10" y="826">de.js</tspan>
-<tspan x="10" y="842"> 39.  2017-04-11 21:47:59 +0000     1796 bytes  lib/assets/scripts/vendor/codemirror/util/match-\</tspan>
+<tspan x="10" y="842"> 39.  2017-04-17 17:02:42 +0000     1796 bytes  lib/assets/scripts/vendor/codemirror/util/match-\</tspan>
 <tspan x="10" y="858">highlighter.js</tspan>
-<tspan x="10" y="874"> 40.  2017-04-11 21:47:59 +0000     2877 bytes  lib/assets/scripts/vendor/codemirror/util/matchb\</tspan>
+<tspan x="10" y="874"> 40.  2017-04-17 17:02:42 +0000     2877 bytes  lib/assets/scripts/vendor/codemirror/util/matchb\</tspan>
 <tspan x="10" y="890">rackets.js</tspan>
-<tspan x="10" y="906"> 41.  2017-04-11 21:47:59 +0000     3496 bytes  lib/assets/scripts/vendor/codemirror/util/multip\</tspan>
+<tspan x="10" y="906"> 41.  2017-04-17 17:02:42 +0000     3496 bytes  lib/assets/scripts/vendor/codemirror/util/multip\</tspan>
 <tspan x="10" y="922">lex.js</tspan>
-<tspan x="10" y="938"> 42.  2017-04-11 21:47:59 +0000     2186 bytes  lib/assets/scripts/vendor/codemirror/util/overla\</tspan>
+<tspan x="10" y="938"> 42.  2017-04-17 17:02:42 +0000     2186 bytes  lib/assets/scripts/vendor/codemirror/util/overla\</tspan>
 <tspan x="10" y="954">y.js</tspan>
-<tspan x="10" y="970"> 43.  2017-04-11 21:47:59 +0000     5066 bytes  lib/assets/scripts/vendor/codemirror/util/pig-hi\</tspan>
+<tspan x="10" y="970"> 43.  2017-04-17 17:02:42 +0000     5066 bytes  lib/assets/scripts/vendor/codemirror/util/pig-hi\</tspan>
 <tspan x="10" y="986">nt.js</tspan>
-<tspan x="10" y="1002"> 44.  2017-04-11 21:47:59 +0000     3182 bytes  lib/assets/scripts/vendor/codemirror/util/runmod\</tspan>
+<tspan x="10" y="1002"> 44.  2017-04-17 17:02:42 +0000     3182 bytes  lib/assets/scripts/vendor/codemirror/util/runmod\</tspan>
 <tspan x="10" y="1018">e-standalone.js</tspan>
-<tspan x="10" y="1034"> 45.  2017-04-11 21:47:59 +0000     1649 bytes  lib/assets/scripts/vendor/codemirror/util/runmod\</tspan>
+<tspan x="10" y="1034"> 45.  2017-04-17 17:02:42 +0000     1649 bytes  lib/assets/scripts/vendor/codemirror/util/runmod\</tspan>
 <tspan x="10" y="1050">e.js</tspan>
-<tspan x="10" y="1066"> 46.  2017-04-11 21:47:59 +0000     5089 bytes  lib/assets/scripts/vendor/codemirror/util/search\</tspan>
+<tspan x="10" y="1066"> 46.  2017-04-17 17:02:42 +0000     5089 bytes  lib/assets/scripts/vendor/codemirror/util/search\</tspan>
 <tspan x="10" y="1082">.js</tspan>
-<tspan x="10" y="1098"> 47.  2017-04-11 21:47:59 +0000     4805 bytes  lib/assets/scripts/vendor/codemirror/util/search\</tspan>
+<tspan x="10" y="1098"> 47.  2017-04-17 17:02:42 +0000     4805 bytes  lib/assets/scripts/vendor/codemirror/util/search\</tspan>
 <tspan x="10" y="1114">cursor.js</tspan>
-<tspan x="10" y="1130"> 48.  2017-04-11 21:47:59 +0000      368 bytes  lib/assets/scripts/vendor/codemirror/util/simple\</tspan>
+<tspan x="10" y="1130"> 48.  2017-04-17 17:02:42 +0000      368 bytes  lib/assets/scripts/vendor/codemirror/util/simple\</tspan>
 <tspan x="10" y="1146">-hint.css</tspan>
-<tspan x="10" y="1162"> 49.  2017-04-11 21:47:59 +0000     4258 bytes  lib/assets/scripts/vendor/codemirror/util/simple\</tspan>
+<tspan x="10" y="1162"> 49.  2017-04-17 17:02:42 +0000     4258 bytes  lib/assets/scripts/vendor/codemirror/util/simple\</tspan>
 <tspan x="10" y="1178">-hint.js</tspan>
-<tspan x="10" y="1194"> 50.  2017-04-11 21:47:59 +0000     3282 bytes  lib/assets/scripts/vendor/codemirror/util/xml-hi\</tspan>
+<tspan x="10" y="1194"> 50.  2017-04-17 17:02:42 +0000     3282 bytes  lib/assets/scripts/vendor/codemirror/util/xml-hi\</tspan>
 <tspan x="10" y="1210">nt.js</tspan>
-<tspan x="10" y="1226"> 51.  2017-04-11 21:47:59 +0000    93636 bytes  lib/assets/scripts/vendor/jquery-1.8.3.min.js</tspan>
-<tspan x="10" y="1242"> 52.  2017-04-11 21:47:59 +0000     1039 bytes  lib/assets/scripts/vendor/jquery.fittext.js</tspan>
-<tspan x="10" y="1258"> 53.  2017-04-11 21:47:59 +0000    28151 bytes  lib/assets/scripts/vendor/lodash.min.js</tspan>
-<tspan x="10" y="1274"> 54.  2017-04-11 21:47:59 +0000    32156 bytes  lib/assets/scripts/vendor/morris.min.js</tspan>
-<tspan x="10" y="1290"> 55.  2017-04-11 21:47:59 +0000    90647 bytes  lib/assets/scripts/vendor/raphael-min.js</tspan>
-<tspan x="10" y="1306"> 56.  2017-04-11 21:47:59 +0000     2662 bytes  lib/cli.js</tspan>
-<tspan x="10" y="1322"> 57.  2017-04-11 21:47:59 +0000     1212 bytes  lib/cli/options.json</tspan>
-<tspan x="10" y="1338"> 58.  2017-04-11 21:47:59 +0000      677 bytes  lib/info.js</tspan>
-<tspan x="10" y="1354"> 59.  2017-04-11 21:47:59 +0000      349 bytes  lib/logger.js</tspan>
-<tspan x="10" y="1370"> 60.  2017-04-11 21:47:59 +0000      814 bytes  lib/models/FileHistory.js</tspan>
-<tspan x="10" y="1386"> 61.  2017-04-11 21:47:59 +0000      582 bytes  lib/models/History.js</tspan>
-<tspan x="10" y="1402"> 62.  2017-04-11 21:47:59 +0000      652 bytes  lib/models/OverviewHistory.js</tspan>
-<tspan x="10" y="1418"> 63.  2017-04-11 21:47:59 +0000     8393 bytes  lib/plato.js</tspan>
-<tspan x="10" y="1434"> 64.  2017-04-11 21:47:59 +0000      738 bytes  lib/reporters/complexity/index.js</tspan>
-<tspan x="10" y="1450"> 65.  2017-04-11 21:47:59 +0000      860 bytes  lib/reporters/eslint/index.js</tspan>
-<tspan x="10" y="1466"> 66.  2017-04-11 21:47:59 +0000     2235 bytes  lib/reporters/jshint/index.js</tspan>
-<tspan x="10" y="1482"> 67.  2017-04-11 21:47:59 +0000     3989 bytes  lib/templates/display.html</tspan>
-<tspan x="10" y="1498"> 68.  2017-04-11 21:47:59 +0000     5470 bytes  lib/templates/file.html</tspan>
-<tspan x="10" y="1514"> 69.  2017-04-11 21:47:59 +0000     6258 bytes  lib/templates/overview.html</tspan>
-<tspan x="10" y="1530"> 70.  2017-04-11 21:47:59 +0000     1756 bytes  lib/util.js</tspan>
-<tspan x="10" y="1546"> 71.  2017-04-11 21:47:59 +0000     2941 bytes  package.json</tspan>
-<tspan x="10" y="1562"> 72.  2017-04-11 21:47:59 +0000     1247 bytes  test/casper-overview.js</tspan>
-<tspan x="10" y="1578"> 73.  2017-04-11 21:47:59 +0000     1563 bytes  test/casper-sortable-file-list.js</tspan>
-<tspan x="10" y="1594"> 74.  2017-04-11 21:47:59 +0000     1800 bytes  test/casper-sortable-metrics.js</tspan>
-<tspan x="10" y="1610"> 75.  2017-04-11 21:47:59 +0000      112 bytes  test/fixtures/a.js</tspan>
-<tspan x="10" y="1626"> 76.  2017-04-11 21:47:59 +0000      156 bytes  test/fixtures/b.js</tspan>
-<tspan x="10" y="1642"> 77.  2017-04-11 21:47:59 +0000      259 bytes  test/fixtures/c-es6.js</tspan>
-<tspan x="10" y="1658"> 78.  2017-04-11 21:47:59 +0000      343 bytes  test/fixtures/d-es6.js</tspan>
-<tspan x="10" y="1674"> 79.  2017-04-11 21:47:59 +0000        0 bytes  test/fixtures/empty.js</tspan>
-<tspan x="10" y="1690"> 80.  2017-04-11 21:47:59 +0000      118 bytes  test/fixtures/issue_16.js</tspan>
-<tspan x="10" y="1706"> 81.  2017-04-11 21:47:59 +0000     3836 bytes  test/fixtures/model_history.json</tspan>
-<tspan x="10" y="1722"> 82.  2017-04-11 21:47:59 +0000      160 bytes  test/fixtures/multipleEmptyLines.js</tspan>
-<tspan x="10" y="1738"> 83.  2017-04-11 21:47:59 +0000      183 bytes  test/fixtures/shebang.js</tspan>
-<tspan x="10" y="1754"> 84.  2017-04-11 21:47:59 +0000     1062 bytes  test/issues/issue_16_test.js</tspan>
-<tspan x="10" y="1770"> 85.  2017-04-11 21:47:59 +0000     1603 bytes  test/model_filehistory_test.js</tspan>
-<tspan x="10" y="1786"> 86.  2017-04-11 21:47:59 +0000     2357 bytes  test/model_overviewhistory_test.js</tspan>
-<tspan x="10" y="1802"> 87.  2017-04-11 21:47:59 +0000     4272 bytes  test/plato_test.js</tspan>
-<tspan x="10" y="1818"> 88.  2017-04-11 21:47:59 +0000     2868 bytes  test/util_test.js</tspan>
-<tspan x="10" y="1834"> 89.  2017-04-11 21:47:59 +0000     1355 bytes  update.sh</tspan>
+<tspan x="10" y="1226"> 51.  2017-04-17 17:02:42 +0000    93636 bytes  lib/assets/scripts/vendor/jquery-1.8.3.min.js</tspan>
+<tspan x="10" y="1242"> 52.  2017-04-17 17:02:42 +0000     1039 bytes  lib/assets/scripts/vendor/jquery.fittext.js</tspan>
+<tspan x="10" y="1258"> 53.  2017-04-17 17:02:42 +0000    28151 bytes  lib/assets/scripts/vendor/lodash.min.js</tspan>
+<tspan x="10" y="1274"> 54.  2017-04-17 17:02:42 +0000    32156 bytes  lib/assets/scripts/vendor/morris.min.js</tspan>
+<tspan x="10" y="1290"> 55.  2017-04-17 17:02:42 +0000    90647 bytes  lib/assets/scripts/vendor/raphael-min.js</tspan>
+<tspan x="10" y="1306"> 56.  2017-04-17 17:02:42 +0000     2662 bytes  lib/cli.js</tspan>
+<tspan x="10" y="1322"> 57.  2017-04-17 17:02:42 +0000     1212 bytes  lib/cli/options.json</tspan>
+<tspan x="10" y="1338"> 58.  2017-04-17 17:02:42 +0000      677 bytes  lib/info.js</tspan>
+<tspan x="10" y="1354"> 59.  2017-04-17 17:02:42 +0000      349 bytes  lib/logger.js</tspan>
+<tspan x="10" y="1370"> 60.  2017-04-17 17:02:42 +0000      814 bytes  lib/models/FileHistory.js</tspan>
+<tspan x="10" y="1386"> 61.  2017-04-17 17:02:42 +0000      582 bytes  lib/models/History.js</tspan>
+<tspan x="10" y="1402"> 62.  2017-04-17 17:02:42 +0000      652 bytes  lib/models/OverviewHistory.js</tspan>
+<tspan x="10" y="1418"> 63.  2017-04-17 17:02:42 +0000     8393 bytes  lib/plato.js</tspan>
+<tspan x="10" y="1434"> 64.  2017-04-17 17:02:42 +0000      738 bytes  lib/reporters/complexity/index.js</tspan>
+<tspan x="10" y="1450"> 65.  2017-04-17 17:02:42 +0000      860 bytes  lib/reporters/eslint/index.js</tspan>
+<tspan x="10" y="1466"> 66.  2017-04-17 17:02:42 +0000     2235 bytes  lib/reporters/jshint/index.js</tspan>
+<tspan x="10" y="1482"> 67.  2017-04-17 17:02:42 +0000     3989 bytes  lib/templates/display.html</tspan>
+<tspan x="10" y="1498"> 68.  2017-04-17 17:02:42 +0000     5470 bytes  lib/templates/file.html</tspan>
+<tspan x="10" y="1514"> 69.  2017-04-17 17:02:42 +0000     6258 bytes  lib/templates/overview.html</tspan>
+<tspan x="10" y="1530"> 70.  2017-04-17 17:02:42 +0000     1756 bytes  lib/util.js</tspan>
+<tspan x="10" y="1546"> 71.  2017-04-17 17:02:42 +0000     2941 bytes  package.json</tspan>
+<tspan x="10" y="1562"> 72.  2017-04-17 17:02:42 +0000     1247 bytes  test/casper-overview.js</tspan>
+<tspan x="10" y="1578"> 73.  2017-04-17 17:02:42 +0000     1563 bytes  test/casper-sortable-file-list.js</tspan>
+<tspan x="10" y="1594"> 74.  2017-04-17 17:02:42 +0000     1800 bytes  test/casper-sortable-metrics.js</tspan>
+<tspan x="10" y="1610"> 75.  2017-04-17 17:02:42 +0000      112 bytes  test/fixtures/a.js</tspan>
+<tspan x="10" y="1626"> 76.  2017-04-17 17:02:42 +0000      156 bytes  test/fixtures/b.js</tspan>
+<tspan x="10" y="1642"> 77.  2017-04-17 17:02:42 +0000      259 bytes  test/fixtures/c-es6.js</tspan>
+<tspan x="10" y="1658"> 78.  2017-04-17 17:02:42 +0000      343 bytes  test/fixtures/d-es6.js</tspan>
+<tspan x="10" y="1674"> 79.  2017-04-17 17:02:42 +0000        0 bytes  test/fixtures/empty.js</tspan>
+<tspan x="10" y="1690"> 80.  2017-04-17 17:02:42 +0000      118 bytes  test/fixtures/issue_16.js</tspan>
+<tspan x="10" y="1706"> 81.  2017-04-17 17:02:42 +0000     3836 bytes  test/fixtures/model_history.json</tspan>
+<tspan x="10" y="1722"> 82.  2017-04-17 17:02:42 +0000      160 bytes  test/fixtures/multipleEmptyLines.js</tspan>
+<tspan x="10" y="1738"> 83.  2017-04-17 17:02:42 +0000      183 bytes  test/fixtures/shebang.js</tspan>
+<tspan x="10" y="1754"> 84.  2017-04-17 17:02:42 +0000     1062 bytes  test/issues/issue_16_test.js</tspan>
+<tspan x="10" y="1770"> 85.  2017-04-17 17:02:42 +0000     1603 bytes  test/model_filehistory_test.js</tspan>
+<tspan x="10" y="1786"> 86.  2017-04-17 17:02:42 +0000     2357 bytes  test/model_overviewhistory_test.js</tspan>
+<tspan x="10" y="1802"> 87.  2017-04-17 17:02:42 +0000     4272 bytes  test/plato_test.js</tspan>
+<tspan x="10" y="1818"> 88.  2017-04-17 17:02:42 +0000     2868 bytes  test/util_test.js</tspan>
+<tspan x="10" y="1834"> 89.  2017-04-17 17:02:42 +0000     1355 bytes  update.sh</tspan>
 </text>
 </svg>
