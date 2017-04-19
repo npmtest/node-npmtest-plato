@@ -1,4 +1,7 @@
-# test coverage for  [plato (v1.7.0)](https://github.com/es-analysis/plato)  [![npm package](https://img.shields.io/npm/v/npmtest-plato.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plato) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plato.svg)](https://travis-ci.org/npmtest/node-npmtest-plato)
+# npmtest-plato
+
+#### basic test coverage for  [plato (v1.7.0)](https://github.com/es-analysis/plato)  [![npm package](https://img.shields.io/npm/v/npmtest-plato.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plato) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plato.svg)](https://travis-ci.org/npmtest/node-npmtest-plato)
+
 #### JavaScript source analysis and visualizer
 
 [![NPM](https://nodei.co/npm/plato.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/plato)
